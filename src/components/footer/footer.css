@@ -3,4 +3,58 @@
     padding: 1em;
     background: #543245;
     margin-top: auto;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 2rem;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.footer .link__socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: .3rem;
+}
+
+.link__socials a {
+    width: 40px;
+    aspect-ratio: 1/1;
+    background-color: #cf3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: inherit;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    transition: background var(--transition), color var(--transition), border-color var(--transition);
+}
+
+.link__socials a:hover {
+    background: transparent;
+    color: #fff;
+    border-color: #fff;
+}
+
+.link__socials .icon-social {
+    font-size: 1.2rem;
+}
+
+.footer .copy {
+    margin-top: .5rem;
+    color: #fff;
+    font-size: 0.98rem;
+}
+
+.footer .copy a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer .copy a:hover {
+    color: #000;
+    text-decoration: underline;
 }

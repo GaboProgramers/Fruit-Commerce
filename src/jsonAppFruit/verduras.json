@@ -35,13 +35,6 @@
     "img": "src/assets/img/zanahoria.jpg"
   },
   {
-    "id": 14,
-    "nombre": "Zanahoria 2da",
-    "precio": 2500,
-    "kg": 1,
-    "img": "src/assets/img/zanahoria2da.jpg"
-  },
-  {
     "id": 6,
     "nombre": "cebolla Cabezona blanca",
     "precio": 4890,
@@ -124,5 +117,12 @@
     "precio": 3400,
     "kg": 1,
     "img": "src/assets/img/PlatanoEM.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Zanahoria 2da",
+    "precio": 2500,
+    "kg": 1,
+    "img": "src/assets/img/zanahoria2da.jpg"
   }
 ]
