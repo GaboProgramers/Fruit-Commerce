@@ -1,0 +1,43 @@
+nav {
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: .2em .1em;
+}
+
+nav .icon-menu {
+    font-size: 1.6rem;
+    cursor: pointer;
+    color: #000;
+    transition: color var(--transition);
+}
+
+nav .icon-menu:hover {
+    color: blueviolet;
+}
+
+nav .link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+nav .link .icon {
+    font-size: 1.3rem;
+    color: rgb(226, 182, 24);
+}
+
+nav .link .text__link {
+    font-size: 0.9rem;
+    color: var(--color-text-link);
+    transition: color var(--transition);
+    text-decoration: none;
+}
+
+nav .link .text__link:hover {
+    color: cornflowerblue;
+}

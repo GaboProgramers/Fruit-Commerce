@@ -1,0 +1,51 @@
+[
+  {
+    "id": 25,
+    "nombre": "limon tahiti",
+    "precio": 4720,
+    "kg": 1,
+    "img": "src/assets/img/limonT.jpg"
+  },
+  {
+    "id": 26,
+    "nombre": "Piña Golden",
+    "precio": 3630,
+    "kg": 1,
+    "img": "src/assets/img/PiñaGolden.jpg"
+  }, {
+    "id": 27,
+    "nombre": "Naranja valencia ",
+    "precio": 2100,
+    "kg": 1,
+    "img": "src/assets/img/NaranjaV.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Tomate De Arbol",
+    "precio": 3770,
+    "kg": 1,
+    "img": "src/assets/img/TomateArbol.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Limon mandarino",
+    "precio": 3640,
+    "kg": 1,
+    "img": "src/assets/img/limonM.jpg"
+  },
+  {
+    "id": 30,
+    "nombre": "fresas 500g",
+    "precio": 5800,
+    "kg": 1,
+    "img": "src/assets/img/Fresas.jpg"
+  },
+  {
+    "id": 31,
+    "nombre": "Papaya",
+    "precio": 4520,
+    "kg": 1,
+    "img": "src/assets/img/Papaya.jpg"
+  }
+
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "nombre": "Papa Capira lavada",
+    "precio": 3240,
+    "kg": 1,
+    "img": "src/assets/img/papa.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Papa 2da",
+    "precio": 3160,
+    "kg": 1,
+    "img": "src/assets/img/papa2da.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Papa Criolla",
+    "precio": 4800,
+    "kg": 1,
+    "img": "src/assets/img/Pcriolla.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Papa Criolla 2da",
+    "precio": 4600,
+    "kg": 1,
+    "img": "src/assets/img/papacriolla2da.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Zanahoria",
+    "precio": 2800,
+    "kg": 1,
+    "img": "src/assets/img/zanahoria.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Zanahoria 2da",
+    "precio": 2500,
+    "kg": 1,
+    "img": "src/assets/img/zanahoria2da.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "cebolla Cabezona blanca",
+    "precio": 4890,
+    "kg": 1,
+    "img": "src/assets/img/cebolla.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Tomate chonto Extra maduro",
+    "precio": 3800,
+    "kg": 1,
+    "img": "src/assets/img/tomateMaduro.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "cilantro",
+    "precio": 1840,
+    "kg": 1,
+    "img": "src/assets/img/cilantro.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Cebolla larga junca",
+    "precio": 4000,
+    "kg": 1,
+    "img": "src/assets/img/cebollaLarga.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Pimenton Rojo",
+    "precio": 7510,
+    "kg": 1,
+    "img": "src/assets/img/Pimenton.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Lechuga Crespa Verde",
+    "precio": 1810,
+    "kg": 1,
+    "img": "src/assets/img/LechugaCrespa.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "lechuga Batavia pequeña",
+    "precio": 2700,
+    "kg": 1,
+    "img": "src/assets/img/LechugaBatavia.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Tomate chonto pinton",
+    "precio": 4720,
+    "kg": 1,
+    "img": "src/assets/img/tomatePinton.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Platano Verde",
+    "precio": 3000,
+    "kg": 1,
+    "img": "src/assets/img/PlatanoV.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Zanahoria 2da",
+    "precio": 2500,
+    "kg": 1,
+    "img": "src/assets/img/zanahoria2da.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Platano Maduro",
+    "precio": 3760,
+    "kg": 1,
+    "img": "src/assets/img/platanoM.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Platano Extra maduro",
+    "precio": 3400,
+    "kg": 1,
+    "img": "src/assets/img/PlatanoEM.jpg"
+  }
+]
