@@ -1,6 +1,7 @@
 :root {
     --color-text-link: #000000;
     --transition: 300ms ease-in-out;
+    --color-name: #83BB00;
 }
 
 * {
@@ -18,4 +19,5 @@
     align-items: center;
     flex-direction: column;
     margin: auto auto;
+    position: relative;
 }

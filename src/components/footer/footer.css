@@ -10,6 +10,7 @@
     font-size: 2rem;
     color: #fff;
     letter-spacing: 2px;
+    margin-bottom: .5em;
 }
 
 .footer .link__socials {
@@ -23,7 +24,7 @@
 .link__socials a {
     width: 40px;
     aspect-ratio: 1/1;
-    background-color: #cf3;
+    background-color: #A7DF79;
     display: flex;
     justify-content: center;
     align-items: center;

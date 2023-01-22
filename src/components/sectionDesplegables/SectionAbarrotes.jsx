@@ -22,9 +22,9 @@ const SectionAbarrotes = () => {
                                     <img src={abarr.img} alt={abarr.nombre} />
                                 </div>
                                 <div className="fruit__details">
-                                    <h3 className='fruit__title'><span>Nombre: </span> {abarr.nombre}</h3>
-                                    <div><span>Precio: </span> {abarr.precio}</div>
-                                    <div><span>Kg: </span> {abarr.kg}</div>
+                                    <div className='fruit__title-content'><span className='fruit__span'></span> <h3 className='title'>{abarr.nombre}</h3></div>
+                                    <div><span className='fruit__span'>Precio: </span> <span className='status'>{abarr.precio}</span></div>
+                                    <div><span className='fruit__span'>Kg: </span> <span className='status'>{abarr.kg}</span></div>
                                 </div>
                             </div>
                         ))

@@ -5,30 +5,21 @@ nav {
     justify-content: space-around;
     align-items: center;
     padding: .2em .1em;
-}
-
-nav .icon-menu {
-    font-size: 1.6rem;
-    cursor: pointer;
-    color: #000;
-    transition: color var(--transition);
-}
-
-nav .icon-menu:hover {
-    color: blueviolet;
+    margin-top: .5em;
 }
 
 nav .link {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: .3rem;
     align-items: center;
     cursor: pointer;
 }
 
 nav .link .icon {
     font-size: 1.3rem;
-    color: rgb(226, 182, 24);
+    color: #83BB00;
 }
 
 nav .link .text__link {
@@ -36,8 +27,4 @@ nav .link .text__link {
     color: var(--color-text-link);
     transition: color var(--transition);
     text-decoration: none;
-}
-
-nav .link .text__link:hover {
-    color: cornflowerblue;
 }

@@ -16,15 +16,15 @@ const SectionVerduras = () => {
                 </div>
                 <div className={`fruit__container ${isOpen ? '' : 'open'}`}>
                     {
-                        verduras.map(ortalizas => (
-                            <div className="fruit__card" key={ortalizas.id}>
+                        verduras.map(hortalizas => (
+                            <div className="fruit__card" key={hortalizas.id}>
                                 <div className="fruit__image">
-                                    <img src={ortalizas.img} alt={ortalizas.nombre} />
+                                    <img src={hortalizas.img} alt={hortalizas.nombre} />
                                 </div>
                                 <div className="fruit__details">
-                                    <h3 className='fruit__title'><span>Nombre: </span> {ortalizas.nombre}</h3>
-                                    <div><span>Precio: </span> {ortalizas.precio}</div>
-                                    <div><span>Kg: </span> {ortalizas.kg}</div>
+                                    <div className='fruit__title-content'><span className='fruit__span'></span> <h3 className='title'>{hortalizas.nombre}</h3></div>
+                                    <div><span className='fruit__span'>Precio: </span> <span className='status'>{hortalizas.precio}</span></div>
+                                    <div><span className='fruit__span'>Kg: </span> <span className='status'>{hortalizas.kg}</span></div>
                                 </div>
                             </div>
                         ))

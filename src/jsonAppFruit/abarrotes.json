@@ -3,50 +3,49 @@
     "id": 18,
     "nombre": "Arroz Roa paca 500gx25un",
     "precio": 50500,
-    "kg": 1,
-    "img": "src/assets/img/arrozPacaRoa.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/arrozPacaRoa.png"
   },
   {
     "id": 19,
     "nombre": "Arroz Caribe 500gx25un",
     "precio": 49500,
-    "kg": 1,
-    "img": "src/assets/img/arrozPacaCaribe.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/arrozPacaCaribe.png"
   },
   {
     "id": 20,
     "nombre": "Aceite Naoli 20lt",
     "precio": 180000,
-    "kg": 1,
-    "img": "src/assets/img/AceiteNaoli.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/AceiteNaoli.png"
   },
   {
     "id": 21,
     "nombre": "Aceite vegetal señora Palma 20lts",
     "precio": 181450,
-    "kg": 1,
-    "img": "src/assets/img/aceiteSPalma.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/aceiteSPalma.png"
   },
   {
     "id": 22,
     "nombre": "Panela redonda el trece 500g",
     "precio": 2700,
-    "kg": 1,
-    "img": "src/assets/img/PanelaRedonda.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/PanelaRedonda.png"
   },
   {
     "id": 23,
     "nombre": "Panela redonda el trece 1000g",
     "precio": 5100,
-    "kg": 1,
-    "img": "src/assets/img/panelaR1000.jpg"
+    "kg": "1kg",
+    "img": "src/assets/img/panelaR1000.png"
   },
   {
     "id": 24,
     "nombre": "azucar x bulto 50kg",
     "precio": 220000,
-    "kg": 1,
-    "img": "src/assets/img/azucarBulto.jpg"
+    "kg": "50kg",
+    "img": "src/assets/img/azucarBulto.png"
   }
-  
 ]
