@@ -4,7 +4,7 @@
     "nombre": "Papa Capira lavada",
     "precio": 3240,
     "kg": "1kg",
-    "img": "src/assets/img/papa.png"
+    "img": "../../public/img/papa.png"
   },
   {
     "id": 2,
